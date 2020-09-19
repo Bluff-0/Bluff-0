@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 <br />
 <p align="center">
   <a href="http://bit.ly/saptarshimazumdar">
-      <img src="https://img.shields.io/badge/Website-Visit%20Me?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Website-Visit%20Me-grey.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>
   <img src="icons/api.svg"/>
   <a href="http://bit.ly/saptarshimazumdar">
-      <img src="https://img.shields.io/badge/Stackoverflow-Visit%20Me?colorA=ab825f&colorB=ffa85e&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Stackoverflow-Visit%20Me-grey.svg?colorA=ab825f&colorB=ffa85e&style=for-the-badge"/>
   </a>
   <img src="icons/api.svg"/>
   <a href="https://orcid.org/0000-0002-2836-2236">
-      <img src="https://img.shields.io/badge/ORCHID-Visit%20Me?colorA=defd8c&colorB=a6ce39&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ORCHID-Visit%20Me-grey.svg?colorA=defd8c&colorB=a6ce39&style=for-the-badge"/>
   </a>
 </p>
 
