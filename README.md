@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Website-Visit%20Me-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>
   <a href="http://bit.ly/saptarshimazumdar">
-      <img src="https://img.shields.io/badge/Stackoverflow-Visit%20Me-gray.svg?colorA=ab825f&colorB=ffa85e&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Stackoverflow-Visit%20Me-arrow.svg?colorA=ab825f&colorB=ffa85e&style=for-the-badge"/>
   </a>
 </p>
 
