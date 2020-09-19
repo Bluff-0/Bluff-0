@@ -28,10 +28,20 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/github/followers/Bluff-0?label=Github%20Followers&style=flat-square">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/11769866?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-3-red?style=flat-square">
 </p>
 <br />
 <p align="center">
   <a href="http://bit.ly/saptarshimazumdar">
       <img src="https://img.shields.io/badge/Website-Visit%20Me-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>
+  <a href="http://bit.ly/saptarshimazumdar">
+      <img src="https://img.shields.io/badge/Stackoverflow-Visit%20Me-gray.svg?colorA=ab825f&colorB=ffa85e&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Bluff-0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluff-0&layout=compact&theme=dracula&count_private=true&hide=Jupyter%20Notebook&title_color=fff" height="165">
 </p>
