@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center"><img src="cover.png" width="100%"></p>
 
 ![Followers](https://img.shields.io/github/followers/Bluff-0?style=social)
