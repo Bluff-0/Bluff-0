@@ -39,7 +39,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Website-Visit%20Me-grey.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>
   <img src="icons/api.svg"/>
-  <a href="http://bit.ly/saptarshimazumdar">
+  <a href="http://bit.ly/stackrishi">
       <img src="https://img.shields.io/badge/Stackoverflow-Visit%20Me-grey.svg?colorA=ab825f&colorB=ffa85e&style=for-the-badge"/>
   </a>
   <img src="icons/api.svg"/>
