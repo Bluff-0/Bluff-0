@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 > <p align="right">Just know that I'm always Parallel on the other side</p>
 - 🔭 I’m currently working on Signal Processing and BCI
 - 🌱 Learning Creative programming and Ext
+- 👯 I’m looking to collaborate on Open source modules and projects.
 ---
 
 <p align="center"><img src="https://camo.githubusercontent.com/ebfdd465daa90626d0ab0d0fddc0e457c942a392/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" height="100px"></p>
